@@ -1,7 +1,7 @@
 {
   "name": "blear.core.session-storage",
-  "version": "1.0.1",
-  "description": "session storage",
+  "version": "1.0.2",
+  "description": "模块废弃，请使用 blear.core.storage 代替",
   "scripts": {
     "live": "browser-sync start --config bs-config.js",
     "test": "node ./node_modules/.bin/karma start karma.conf.js --single-run"
